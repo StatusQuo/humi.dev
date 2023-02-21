@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://humi.dev/about/</loc>
+    <lastmod>2023-02-21T20:45:19+01:00</lastmod>
+  </url><url>
+    <loc>http://humi.dev/</loc>
+    <lastmod>2023-02-21T20:45:19+01:00</lastmod>
+  </url><url>
+    <loc>http://humi.dev/posts/mycycles-privacy/</loc>
+    <lastmod>2023-02-21T20:45:19+01:00</lastmod>
+  </url><url>
+    <loc>http://humi.dev/posts/</loc>
+    <lastmod>2023-02-21T20:45:19+01:00</lastmod>
+  </url><url>
+    <loc>http://humi.dev/categories/</loc>
+  </url><url>
+    <loc>http://humi.dev/tags/</loc>
+  </url>
+</urlset>

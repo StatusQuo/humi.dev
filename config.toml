@@ -1,0 +1,9 @@
+baseURL = 'http://humi.dev/'
+languageCode = 'en-us'
+title = 'humi.dev'
+theme = 'archie'
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
