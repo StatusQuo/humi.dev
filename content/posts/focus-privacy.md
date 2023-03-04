@@ -1,7 +1,6 @@
 ---
 title: "Focus Privacy Policy"
 date: 2023-03-02T19:54:27+01:00
-draft: true
 ---
 
 This policy describes the information that I, Sebastian Humann-Nehrke, may receive from Focus users and how that information is handled.
