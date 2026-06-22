@@ -1,4 +1,4 @@
-baseURL = 'https://statusquo.github.io/'
+baseURL = 'https://humi.dev'
 languageCode = 'en-us'
 title = 'statusquo'
 theme = 'archie'
