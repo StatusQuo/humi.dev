@@ -4,6 +4,11 @@ title = 'statusquo'
 theme = 'archie'
 
 [[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
 name = "About"
 url = "/about"
 weight = 3
